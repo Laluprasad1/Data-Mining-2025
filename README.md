@@ -7,3 +7,4 @@
 6. [Lab-06](https://github.com/Laluprasad1/Data-Mining-2025/blob/main/DM_LAB_06.ipynb)
 7. [Lab-07](https://github.com/Laluprasad1/Data-Mining-2025/blob/main/DM_LAB_07.ipynb)
 8. [Lab-08](https://github.com/Laluprasad1/Data-Mining-2025/blob/main/DM_LAB_08.ipynb)
+9. [Lab-09](https://github.com/Laluprasad1/Data-Mining-2025/blob/main/DM_LAB_09.ipynb)
